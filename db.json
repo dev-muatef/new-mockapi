@@ -3584,17 +3584,7 @@
         "rate": 4.7,
         "count": 1800
       }
-    },
-    {
-      "id": 50,
-      "title": "Cuisinart Classic Stainless Steel Cookware Set",
-      "price": 299.95,
-      "description": "12-piece stainless steel cookware set features durable construction with aluminum encapsulated bases for even heating. Oven safe to 550°F.",
-      "category": "home",
-      "image": "https://example.com/images/cuisinart.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 2100
-      }
+    }
+
     ]
   }
